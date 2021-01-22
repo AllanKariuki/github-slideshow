@@ -2,5 +2,5 @@
 layout: slide
 content: "Welcome to the next slide!"
 ---
-Hey guys trying out something new.
+Hey im making progress.
 Use left arrow to go back!
